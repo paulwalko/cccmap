@@ -2,7 +2,7 @@
 Uses a graph structure to calculate sthe most efficient order to take 6 given merit badges (throughout different areas) and a campsite in
 
 #Usage
-python dij.py campSite area area2 area3 area4 area5 area6
+python dij.py area1 area2 area3 area4 area5 area6 area7
 ```python
 python dij.py seven handi aqua kiwanis cope cope cope
 ```
