@@ -8,6 +8,7 @@ python dij.py seven handi aqua kiwanis cope cope cope
 ```
 
 **Current areas: cope, gun, eco, skills, archery, health, admin, dining, aqua, handi, dan, ftown, kiwanis, one, two, ..., fourteen (all campsites)
+
 Camp Map for Reference:
 
 ![](http://lhcbsa.org/uploads/programs/ccc_map.jpg)
